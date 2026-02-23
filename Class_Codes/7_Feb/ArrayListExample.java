@@ -19,3 +19,5 @@ public class ArrayListExample {
         System.out.println("Contains Apple? " + fruits.contains("Apple"));
     }
 }
+
+  
